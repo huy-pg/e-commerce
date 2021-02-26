@@ -1,0 +1,4 @@
+tạo csdl với tên hasa 
+insert dữ liệu từ file database/hasa.sql vào csdl trên
+sau đó cd vào thư mục hasa bật cmd và ghi php artisan serve
+bật trình quyệt và truy cập vào localhost:8000
